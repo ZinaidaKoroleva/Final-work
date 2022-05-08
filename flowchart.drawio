@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="2qP8Vjl1QrL2bjbnHhDG" name="Page-1">
-        <mxGraphModel dx="734" dy="141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="734" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -17,7 +17,7 @@
                         <mxPoint x="414" y="210" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="6" value="arrayOriginal,&lt;br&gt;Length = arrayOriginal.Length,&lt;br&gt;arrayResult,&lt;br&gt;arrayResultLength = arrayResult.Length,&lt;br&gt;i =0&lt;br&gt;j =0" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="6" value="arrayOriginal,&lt;br&gt;size = arrayOriginal.Length,&lt;br&gt;arrayResult,&lt;br&gt;i =0&lt;br&gt;j =0" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="274" y="90" width="280" height="100" as="geometry"/>
                 </mxCell>
                 <mxCell id="9" value="Yes" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8" target="12">
