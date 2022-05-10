@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="2qP8Vjl1QrL2bjbnHhDG" name="Page-1">
-        <mxGraphModel dx="734" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="864" dy="299" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -35,7 +35,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="8" value="&lt;span&gt;i &amp;lt; Length&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="8" value="&lt;span&gt;i &amp;lt; size&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="354" y="220" width="120" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="16" value="Yes" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="12" target="17">
@@ -44,10 +44,11 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="21" value="No" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="12" target="19">
-                    <mxGeometry relative="1" as="geometry">
+                    <mxGeometry x="-0.7899" relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="260" y="370"/>
                         </Array>
+                        <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="12" value="arrayOriginal [ i ]. Length &amp;lt; = 3?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -69,7 +70,7 @@
                 <mxCell id="19" value="i = i +1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="220" y="240" width="80" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="25" style="edgeStyle=none;html=1;" edge="1" parent="1" source="24" target="26">
+                <mxCell id="25" style="edgeStyle=none;html=1;exitX=0.489;exitY=0.846;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="24" target="26">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="414" y="680" as="targetPoint"/>
                     </mxGeometry>
