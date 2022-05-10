@@ -1,5 +1,5 @@
 ﻿// Создание и заполненнение первоначального массива
-
+Console.Write("Исходный массив: "); 
 string[] arrayOriginal = new string[] { "hello", "2", "world", ":-)" };
 
 // Вывод оригинального массива
@@ -14,6 +14,7 @@ else
 {
     string[] arrayResult = new string[FindLenght(arrayOriginal)]; // Создаём итоговый массив
     FillArray(arrayOriginal, arrayResult); // Заполняем итоговый массив
+    Console.Write("Итоговый массив: "); 
     Console.WriteLine(PrintArray(arrayResult)); // Выводим
 }
 
